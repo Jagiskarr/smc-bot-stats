@@ -1,0 +1,49 @@
+{
+  "total_trades": 10,
+  "profitable": 0,
+  "losing": 10,
+  "breakeven": 0,
+  "win_rate": 0.0,
+  "start_balance": 10000,
+  "current_balance": 9151.54,
+  "total_pnl": -848.4599999999991,
+  "return_pct": -8.484599999999991,
+  "max_drawdown": 8.484599999999991,
+  "actual_rr": 0.0,
+  "avg_win": 0,
+  "avg_loss": 84.84700000000001,
+  "active_hours": 9.718056376944444,
+  "recent_trades": [
+    {
+      "time": "2026-04-27 00:07",
+      "symbol": "SOL/USDT:USDT",
+      "pnl": -87.82,
+      "reason": "SL"
+    },
+    {
+      "time": "2026-04-26 23:54",
+      "symbol": "SOL/USDT:USDT",
+      "pnl": -79.44,
+      "reason": "SL"
+    },
+    {
+      "time": "2026-04-26 23:48",
+      "symbol": "SOL/USDT:USDT",
+      "pnl": -84.68,
+      "reason": "SL"
+    },
+    {
+      "time": "2026-04-26 23:45",
+      "symbol": "SOL/USDT:USDT",
+      "pnl": -79.44,
+      "reason": "SL"
+    },
+    {
+      "time": "2026-04-26 23:39",
+      "symbol": "SOL/USDT:USDT",
+      "pnl": -84.68,
+      "reason": "SL"
+    }
+  ],
+  "last_updated": "2026-04-27 00:07:58"
+}
